@@ -15,7 +15,6 @@
 
 ## Executive Overview Dashboard
 
-> **Replace the image below with your screenshot**
 
 ![Executive Dashboard](powerbi/screenshots/executive_dashboard.png)
 
@@ -23,9 +22,8 @@
 
 ## Customer Insights Dashboard
 
-> **Replace the image below with your screenshot**
 
-![Customer Insights Dashboard](powerbi/screenshots/customer_insights_dashboard.png)
+![Customer Insights Dashboard](powerbi/screenshots/customer_analytics_dashboard.png)
 
 ---
 
@@ -280,15 +278,12 @@ This project showcases practical skills in:
 
 ## Executive Overview
 
-> Add your Executive Dashboard screenshot here.
-
 ![Executive Dashboard](powerbi/screenshots/executive_dashboard.png)
 
 ---
 
 ## Customer Insights
 
-> Add your Customer Insights Dashboard screenshot here.
 
 ![Customer Insights Dashboard](powerbi/screenshots/customer_analytics_dashboard.png)
 
@@ -301,7 +296,3 @@ This project showcases practical skills in:
 📧 Email: amreenbegum75789@gmail.com
 
 🔗 LinkedIn: https://linkedin.com/in/amreen--begum
-
----
-
-# ⭐ If you found this project helpful, don't forget to star the repository!
